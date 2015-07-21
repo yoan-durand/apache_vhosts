@@ -1,6 +1,6 @@
 name             'apache_vhosts'
-maintainer       'yoan'
-maintainer_email 'yoan.durand.dev@free.com'
+maintainer       'Arsey'
+maintainer_email 'arseysensector@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures app'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
